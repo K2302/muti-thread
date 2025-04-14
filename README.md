@@ -73,9 +73,12 @@ multithreaded_downloader/
 - 🎯 **Limited concurrent threads** (thread pooling)
 - 📥 **Drag-and-drop URL input**
 - 🌐 Proxy support and authentication
+---
+##screenshots
 
 ---
 
 ## 📜 License
 
 MIT License © 2025 Kaushik Deka
+
